@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c053104-dd25-4a64-bfc2-f79216bc6178" name="\\NJ-SQLDEV\CompChange" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="Z:\" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
